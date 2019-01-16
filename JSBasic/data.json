@@ -1,0 +1,22 @@
+{
+    "datajson":
+    [
+    {
+        "name": "FAQ",
+        "mean": "The FAQ seems to have originated in many of the Usenet groups as a way to acquaint new users with the rules."
+    },
+    {
+        "name": "Developer",
+        "mean": "A developer is an individual that builds and create software and applications."
+    },
+    {
+        "name": "Address",
+        "mean": "1B Le Duan, Danang"
+    },
+    {
+        "name": "Contact",
+        "mean": "Here"
+    }
+    ]
+
+}

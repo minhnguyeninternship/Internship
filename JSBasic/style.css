@@ -1,0 +1,112 @@
+*
+{
+	margin:0px;
+	padding: 0px;
+}
+.backgroundimage
+{
+	background-image: url(Minhexercise.jpg);
+	background-size: cover;
+	height: 60vh;
+	background-position: center;
+}
+.menu
+{
+	width: 100%;
+	line-height:80px;
+}
+.rightmenu
+{
+	 width: 70%;
+	 height: 100px;
+	 float: right;
+}
+.rightmenu ul
+{
+	margin-top:2px;
+	margin-left: 300px;
+}
+.rightmenu ul li 
+{
+	font-family: Montserrat; sans-serif;
+	display: inline-block;
+	list-style: none;
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	line-height: 100px;
+	margin-left: 40px;
+	text-transform: uppercase;
+}
+#firstlist 
+	{
+	color: grey;
+	}
+.rightmenu ul li:hover
+	{
+	color: red;
+	}
+.text
+	{	
+ 	width: 100%;
+ 	text-transform: uppercase;
+ 	text-align: center;
+ 	color: white;
+ 	margin-top: 180px;
+ 	position: absolute;
+	}	
+.text h1
+{
+	color: white;
+	text-transform: uppercase;
+	margin-top: 60px;
+	text-align: center;
+	font-size: 80px;
+	font-family: Times New Roman ; sans-serif;
+	
+	
+}
+
+#buttonone {
+	background-color: white;
+	border: none;
+	font-size: 13px;
+	font-weight: bold;
+	font-family: Roboto; sans-serif; 
+	text-transform: uppercase;
+	line-height: 40px;
+	width: 150px;
+	margin-top: 30px;
+	border: 3px solid white;
+}
+#buttontwo 
+{
+	background-color: transparent;
+	border: none;
+	font-family: Roboto; sans-serif; 
+	text-transform: uppercase;
+	font-weight: bold;
+	line-height: 40px;
+	border: 3px solid white;
+	width: 150px;
+	color: white;
+}
+#buttontwo:hover
+{
+	background-color: black;
+}
+.row {
+    display: table; 
+    width: 100%; 
+}
+
+.col {
+    display: table-cell;
+    padding: 1rem
+}
+.col:nth-child(even){
+    background-color: white;
+}
+.col:nth-child(odd){
+    background-color: white;
+}
